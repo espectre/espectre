@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/espectre/Algorithms_Engineer_Interview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=espectre&repo=Algorithms_Engineer_Interview&cache_seconds=18000&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=espectre&repo=Algorithms_Engineer_Interview&cache_seconds=1800&theme=default_repocard" />
 </a>
 
 <a href="https://github.com/espectre/Object_Detection">
